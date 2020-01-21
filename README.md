@@ -5,3 +5,7 @@ Abbreviation Replacement.pptx
 
 ### And also the code itself 
 Text Convertor.py
+
+- Added the function to replace abbreviations with standard vernacular (non-exhaustive)
+- The replacements can be done multiple times at once
+- Added the function to automatically copy the text after the input
